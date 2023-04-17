@@ -1,6 +1,5 @@
-FROM mhart/alpine-node:12
+FROM node:12
 
-RUN apk add --no-cache make gcc g++ python bash
 # Create app directory
 RUN mkdir /app
 WORKDIR /app

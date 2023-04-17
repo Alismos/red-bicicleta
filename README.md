@@ -12,9 +12,16 @@ This is an application to rent bikes using nodejs and express. You can run the a
 
 The easiest way to get up and this application running is using Docker. Once the Docker CLI is installed from [https://www.docker.com/get-docker](https://www.docker.com/get-docker).
 
-1. Run: `docker-compose up --build`
-2. Visit [http://localhost:8080](http://localhost:8080) in your browser
+1. You can use the docker image [alismo1013/red-bici](https://hub.docker.com/r/alismo1013/red-bici)
 
-# Application
+## Application
 
+### Home page
 ![image](public/images/website.png)
+
+### Bikes page
+
+![image](public/images/bikes_enpoint.png)
+### Bikes creation page
+
+![image](public/images/create_endpoint.png)
