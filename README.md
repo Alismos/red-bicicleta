@@ -24,4 +24,4 @@ The easiest way to get up and this application running is using Docker. Once the
 ![image](public/images/bikes_enpoint.png)
 ### Bikes creation page
 
-![image](public/images/create_endpoint.png)
+![image](public/images/Create_endpoint.png)
